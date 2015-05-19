@@ -1,0 +1,1 @@
+Sailfish App to read and edit MIME information and associations.
